@@ -2,5 +2,5 @@
 baseURL = "http://192.210.179.42/"
 languageCode = "en-us"
 title = "Leith SNP Branch Site"
-theme = "ananke"
 publishDir = "/var/www/html/leithsnp/"
+theme = "ananke"
